@@ -1,0 +1,37 @@
+{
+	"start":	{
+		"connected":	[],
+		"version":	"iperf 3.16",
+		"system_info":	"Linux client 6.17.0-14-generic #14~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Jan 15 15:52:10 UTC 2 x86_64",
+		"timestamp":	{
+			"time":	"Mon, 16 Feb 2026 13:55:32 GMT",
+			"timesecs":	1771250132
+		},
+		"connecting_to":	{
+			"host":	"10.0.3.1",
+			"port":	5000
+		},
+		"cookie":	"yaxdx4v2rpnflkttmmt6s35hxosujiuvq74q",
+		"tcp_mss_default":	1448,
+		"target_bitrate":	0,
+		"fq_rate":	0,
+		"test_start":	{
+			"protocol":	"TCP",
+			"num_streams":	0,
+			"blksize":	131072,
+			"omit":	0,
+			"duration":	200,
+			"bytes":	0,
+			"blocks":	0,
+			"reverse":	0,
+			"tos":	0,
+			"target_bitrate":	0,
+			"bidir":	0,
+			"fqrate":	0
+		}
+	},
+	"intervals":	[],
+	"end":	{
+	},
+	"error":	"control socket has closed unexpectedly"
+}
