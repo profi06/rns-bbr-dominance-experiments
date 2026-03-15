@@ -1,0 +1,57 @@
+{
+	"start":	{
+		"connected":	[],
+		"version":	"iperf 3.7",
+		"system_info":	"Linux client 5.15.0-139-generic #149~20.04.1-Ubuntu SMP Wed Apr 16 08:29:56 UTC 2025 x86_64",
+		"timestamp":	{
+			"time":	"Wed, 18 Feb 2026 03:28:08 GMT",
+			"timesecs":	1771385288
+		},
+		"connecting_to":	{
+			"host":	"10.0.3.1",
+			"port":	5000
+		},
+		"cookie":	"anbx2zdjwy5dtuewrie6s4nbxxk3pn3rpmgm",
+		"tcp_mss_default":	1448,
+		"test_start":	{
+			"protocol":	"TCP",
+			"num_streams":	0,
+			"blksize":	131072,
+			"omit":	0,
+			"duration":	200,
+			"bytes":	0,
+			"blocks":	0,
+			"reverse":	0,
+			"tos":	0
+		}
+	},
+	"intervals":	[],
+	"end":	{
+		"streams":	[],
+		"sum_sent":	{
+			"start":	0,
+			"end":	0,
+			"seconds":	0,
+			"bytes":	0,
+			"bits_per_second":	0,
+			"retransmits":	0,
+			"sender":	true
+		},
+		"sum_received":	{
+			"start":	0,
+			"end":	0,
+			"seconds":	0,
+			"bytes":	0,
+			"bits_per_second":	0,
+			"sender":	true
+		},
+		"cpu_utilization_percent":	{
+			"host_total":	0.025079813451389734,
+			"host_user":	0,
+			"host_system":	0.025078814295441714,
+			"remote_total":	0.0021475941019948675,
+			"remote_user":	0.0021480904260304566,
+			"remote_system":	0
+		}
+	}
+}
